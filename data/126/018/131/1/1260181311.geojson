@@ -1,0 +1,75 @@
+{
+  "id": 1260181311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.79204,32.30019,-64.79204,32.30019",
+    "geom:latitude":32.30019,
+    "geom:longitude":-64.79204,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pembroke Parish",
+    "gn:country_code":"BM",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8533871,
+    "gn:latitude":32.30019,
+    "gn:longitude":-64.79204,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pembroke Parish",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pembroke Parish"
+    ],
+    "name:und_x_variant":[
+        "Pembroke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669367,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8533871,
+        "wk:page":"Pembroke,_Bermuda"
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"cacf919db324fde86c613a6f1f855bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1260181311,
+            "region_id":85669367
+        }
+    ],
+    "wof:id":1260181311,
+    "wof:lastmodified":1537587890,
+    "wof:name":"Pembroke Parish",
+    "wof:parent_id":85669367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.79204,
+    32.30019,
+    -64.79204,
+    32.30019
+],
+  "geometry": {"coordinates":[-64.79204,32.30019],"type":"Point"}
+}

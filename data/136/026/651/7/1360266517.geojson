@@ -1,0 +1,68 @@
+{
+  "id": 1360266517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.81611,32.25722,-64.81611,32.25722",
+    "geom:latitude":32.25722,
+    "geom:longitude":-64.81611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Warwick Camp",
+    "gn:country_code":"BM",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3572974,
+    "gn:latitude":32.25722,
+    "gn:longitude":-64.81611,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Warwick Camp",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669391,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3572974
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"41e1c8323fe49dc124eca3f39c60475f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1360266517,
+            "region_id":85669391
+        }
+    ],
+    "wof:id":1360266517,
+    "wof:lastmodified":1536683920,
+    "wof:name":"Warwick Camp",
+    "wof:parent_id":85669391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.81611,
+    32.25722,
+    -64.81611,
+    32.25722
+],
+  "geometry": {"coordinates":[-64.81610999999999,32.25722],"type":"Point"}
+}

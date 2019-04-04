@@ -1,0 +1,97 @@
+{
+  "id": 421171923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.86833,32.29833,-64.86833,32.29833",
+    "geom:latitude":32.29833,
+    "geom:longitude":-64.86833,
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Somerset Village"
+    ],
+    "name:eng_x_preferred":[
+        "Somerset Village"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30e1\u30fc\u30bb\u30c3\u30c8\u6751"
+    ],
+    "name:pol_x_preferred":[
+        "Somerset"
+    ],
+    "name:spa_x_preferred":[
+        "Somerset Village"
+    ],
+    "name:swe_x_preferred":[
+        "Somerset"
+    ],
+    "qs:gn_country":"BM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3573029,
+    "qs:gn_pop":0,
+    "qs:name":"Somerset",
+    "qs:name_adm0":"Bermuda",
+    "qs:name_adm1":"Sandys",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1284731,
+    "qs:woe_adm0":23424756,
+    "qs:woe_id":56802,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632731,
+        85669377,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573029,
+        "gp:id":56802,
+        "qs:id":1284731,
+        "wd:id":"Q2879955",
+        "wk:page":"Somerset Village, Bermuda"
+    },
+    "wof:country":"BM",
+    "wof:created":1459008912,
+    "wof:geomhash":"95d29b20fc8689abe66d006d45a36be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":421171923,
+            "region_id":85669377
+        }
+    ],
+    "wof:id":421171923,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Somerset",
+    "wof:parent_id":85669377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.86833,
+    32.29833,
+    -64.86833,
+    32.29833
+],
+  "geometry": {"coordinates":[-64.86833,32.29833],"type":"Point"}
+}

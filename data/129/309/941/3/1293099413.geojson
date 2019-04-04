@@ -1,0 +1,68 @@
+{
+  "id": 1293099413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.78361,32.27417,-64.78361,32.27417",
+    "geom:latitude":32.27417,
+    "geom:longitude":-64.78361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"BM",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573121,
+    "gn:latitude":32.27417,
+    "gn:longitude":-64.78361,
+    "gn:modification_date":"1995-08-16",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669363,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573121
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"d37e8a6b9e2124e4558057527dea5596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1293099413,
+            "region_id":85669363
+        }
+    ],
+    "wof:id":1293099413,
+    "wof:lastmodified":1536848447,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":85669363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.78361,
+    32.27417,
+    -64.78361,
+    32.27417
+],
+  "geometry": {"coordinates":[-64.78361,32.27417],"type":"Point"}
+}

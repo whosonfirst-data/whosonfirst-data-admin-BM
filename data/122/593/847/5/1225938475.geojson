@@ -1,0 +1,68 @@
+{
+  "id": 1225938475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.65444,32.37028,-64.65444,32.37028",
+    "geom:latitude":32.37028,
+    "geom:longitude":-64.65444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cashew City",
+    "gn:country_code":"BM",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573304,
+    "gn:latitude":32.37028,
+    "gn:longitude":-64.65444,
+    "gn:modification_date":"1995-08-16",
+    "gn:name":"Cashew City",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669373,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573304
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"691f89e359263f2ad37fe1e25d180240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1225938475,
+            "region_id":85669373
+        }
+    ],
+    "wof:id":1225938475,
+    "wof:lastmodified":1536879131,
+    "wof:name":"Cashew City",
+    "wof:parent_id":85669373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.65444000000001,
+    32.37028,
+    -64.65444000000001,
+    32.37028
+],
+  "geometry": {"coordinates":[-64.65444000000001,32.37028],"type":"Point"}
+}

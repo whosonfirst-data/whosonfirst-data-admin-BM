@@ -1,0 +1,204 @@
+{
+  "id": 85669391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000649,
+    "geom:area_square_m":6785650.214266,
+    "geom:bbox":"-64.832895176,32.2542807536,-64.7883062511,32.2899362997",
+    "geom:latitude":32.270348,
+    "geom:longitude":-64.810758,
+    "gn:population":8932,
+    "iso:country":"BM",
+    "label:eng_x_preferred_longname":[
+        "Warwick Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":32.265312,
+    "lbl:longitude":-64.807562,
+    "mps:latitude":32.265312,
+    "mps:longitude":-64.807562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Warwick Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Warwick Parish"
+    ],
+    "name:eng_x_preferred":[
+        "Warwick"
+    ],
+    "name:fra_x_preferred":[
+        "Warwick"
+    ],
+    "name:nld_x_preferred":[
+        "Warwick"
+    ],
+    "name:nor_x_preferred":[
+        "Warwick prestegjeld"
+    ],
+    "name:por_x_preferred":[
+        "Warwick"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u0440\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Warwick"
+    ],
+    "name:swe_x_preferred":[
+        "Warwick"
+    ],
+    "name:unk_x_variant":[
+        "Heron Bay"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BMU",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"BMU-5144",
+    "ne:adm1_code":"BMU-5144",
+    "ne:admin":"Bermuda",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BM.WA",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5144",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Bermuda",
+    "ne:gn_a1_code":"BM.11",
+    "ne:gn_id":"3572972",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Warwick Parish",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BD11",
+    "ne:gns_id":"-1394320",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Warwick Parish",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BMU",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BM-WAR",
+    "ne:iso_a2":"BM",
+    "ne:labelrank":"20",
+    "ne:latitude":"32.26580000000",
+    "ne:longitude":"-64.80420000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Warwick",
+    "ne:name_alt":"",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344759,
+    "ne:woe_label":"Warwick, BM, Bermuda",
+    "ne:woe_name":"Warwick",
+    "qs:a0":"Bermuda",
+    "qs:a0_lc":"BM",
+    "qs:a1":"Warwick",
+    "qs:a1_lc":"BMU-5144",
+    "qs:adm0":"Bermuda",
+    "qs:adm0_a3":"BMU",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-20",
+    "statoids:area_km":"6",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-05-20",
+    "statoids:capital":"",
+    "statoids:country":"BM",
+    "statoids:gec":"BD11",
+    "statoids:hasc":"BM.WA",
+    "statoids:iso":"WAR",
+    "statoids:name":"Warwick",
+    "statoids:population":"8615",
+    "statoids:timezone":"-4~",
+    "statoids:type":"parish",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191575,
+        85632731,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BD11",
+        "gn:id":3572972,
+        "gp:id":2344759,
+        "hasc:id":"BM.WA",
+        "iso:id":"BM-WAR",
+        "qs:id":423594,
+        "wd:id":"Q1468860",
+        "wk:page":"Warwick Parish"
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"74accb4de1a0a5a3d9adb20c113943cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "region_id":85669391
+        }
+    ],
+    "wof:id":85669391,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550331,
+    "wof:name":"Warwick",
+    "wof:parent_id":85632731,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":8615,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:shortcode":"WA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.83289517597154,
+    32.25428075355399,
+    -64.78830625113255,
+    32.28993629972052
+],
+  "geometry": {"coordinates":[[[[-64.78830625113255,32.26528296323823],[-64.80925263879823,32.25621661620391],[-64.81515241175435,32.25428075355399],[-64.82068162445734,32.26190220302431],[-64.83289517597154,32.25970485889218],[-64.82901935066246,32.26668134516802],[-64.8197173686616,32.26745651040966],[-64.80305131776407,32.27598332716889],[-64.79709301063389,32.27909462891404],[-64.78830625113255,32.26528296323823]]],[[[-64.81196571714412,32.28993629972052],[-64.80770230921416,32.28644805703226],[-64.81119055190243,32.28218464820299],[-64.82049253390329,32.28102190034048],[-64.82979451590415,32.28179706558217],[-64.83250759335073,32.28722322227395],[-64.82940693328328,32.28916113447883],[-64.82088011652411,32.28722322227395],[-64.81545396073165,32.28877355185796],[-64.81196571714412,32.28993629972052]]]],"type":"MultiPolygon"}
+}

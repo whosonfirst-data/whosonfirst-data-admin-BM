@@ -1,0 +1,68 @@
+{
+  "id": 1226635723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.72889,32.31861,-64.72889,32.31861",
+    "geom:latitude":32.31861,
+    "geom:longitude":-64.72889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Harrington Hundreds",
+    "gn:country_code":"BM",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3740524,
+    "gn:latitude":32.31861,
+    "gn:longitude":-64.72889,
+    "gn:modification_date":"1995-08-16",
+    "gn:name":"Harrington Hundreds",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669381,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3740524
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"41043eae1a87c50e1b3158087371bab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1226635723,
+            "region_id":85669381
+        }
+    ],
+    "wof:id":1226635723,
+    "wof:lastmodified":1536872902,
+    "wof:name":"Harrington Hundreds",
+    "wof:parent_id":85669381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.72889,
+    32.31861,
+    -64.72889,
+    32.31861
+],
+  "geometry": {"coordinates":[-64.72889000000001,32.31861],"type":"Point"}
+}

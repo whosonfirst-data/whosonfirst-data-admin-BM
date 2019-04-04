@@ -1,0 +1,68 @@
+{
+  "id": 1360286105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.76056,32.29417,-64.76056,32.29417",
+    "geom:latitude":32.29417,
+    "geom:longitude":-64.76056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Camden",
+    "gn:country_code":"BM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573307,
+    "gn:latitude":32.29417,
+    "gn:longitude":-64.76056,
+    "gn:modification_date":"2010-12-28",
+    "gn:name":"Camden",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632731,
+        85669355,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573307
+    },
+    "wof:country":"BM",
+    "wof:geomhash":"d92c2e10b67dda138e5afdab82a49f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632731,
+            "empire_id":136253055,
+            "locality_id":1360286105,
+            "region_id":85669355
+        }
+    ],
+    "wof:id":1360286105,
+    "wof:lastmodified":1536655685,
+    "wof:name":"Camden",
+    "wof:parent_id":85669355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.76056,
+    32.29417,
+    -64.76056,
+    32.29417
+],
+  "geometry": {"coordinates":[-64.76056,32.29417],"type":"Point"}
+}

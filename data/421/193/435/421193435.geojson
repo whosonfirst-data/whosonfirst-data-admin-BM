@@ -1,0 +1,70 @@
+{
+  "id": 421193435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.75,32.28333,-64.75,32.28333",
+    "geom:latitude":32.28333,
+    "geom:longitude":-64.75,
+    "iso:country":"BM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3573339,
+    "qs:gn_pop":0,
+    "qs:name":"Bethaven",
+    "qs:name_adm0":"Bermuda",
+    "qs:name_adm1":"Paget",
+    "qs:photos":1907,
+    "qs:photos_1k":386,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1907,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898414,
+    "qs:woe_adm0":23424756,
+    "qs:woe_id":56788,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573339,
+        "gp:id":56788,
+        "qs:id":898414
+    },
+    "wof:country":"BM",
+    "wof:created":1459009771,
+    "wof:geomhash":"645245e8d4b8fbda468c92bd59fded14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421193435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421193435,
+    "wof:lastmodified":1506729013,
+    "wof:name":"Bethaven",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.75,
+    32.28333,
+    -64.75,
+    32.28333
+],
+  "geometry": {"coordinates":[-64.75,32.28333],"type":"Point"}
+}
