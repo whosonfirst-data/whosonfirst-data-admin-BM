@@ -25,8 +25,101 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0645\u064a\u062b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09ae\u09bf\u09a5'\u09b8 \u09aa\u09cd\u09af\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:ceb_x_preferred":[
+        "Smith's Parish"
+    ],
+    "name:dan_x_preferred":[
+        "Smith's Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Smith\u2019s Parish"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03b9\u03b8\u03c2 \u03a0\u03ac\u03c1\u03b9\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Smith's"
+    ],
+    "name:eng_x_variant":[
+        "Smith's Parish"
+    ],
+    "name:fin_x_preferred":[
+        "Smith'n pit\u00e4j\u00e4"
+    ],
+    "name:fra_x_preferred":[
+        "Smith's"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aae\u0abf\u0aa5\u0acd\u0ab8 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092e\u093f\u0925\u094d\u0938 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Smith's"
+    ],
+    "name:ita_x_preferred":[
+        "Smith's Parish"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30df\u30b9\u6559\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cae\u0cbf\u0ca4\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ubbf8\uc2a4\uc758 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Smita pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "Smito parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u092e\u093f\u0925\u091c \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:msa_x_preferred":[
+        "Smith's Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Smith"
+    ],
+    "name:nob_x_preferred":[
+        "Smith's prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Parafia Smith's"
+    ],
+    "name:por_x_preferred":[
+        "Smith"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0438\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0db8\u0dd2\u0dad\u0dca\u0dc3\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Smith's"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c2e\u0c3f\u0c24\u0c4d\u0c38\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e21\u0e34\u0e17 \u0e1e\u0e32\u0e25\u0e34\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Smith's Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u043c\u0456\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Smith\u2019s"
@@ -152,7 +245,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550331,
+    "wof:lastmodified":1563374558,
     "wof:name":"Smith's",
     "wof:parent_id":85632731,
     "wof:placetype":"region",
