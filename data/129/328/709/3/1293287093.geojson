@@ -25,6 +25,9 @@
     "iso:country":"BM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Tucker's Town"
+    ],
     "name:und_x_variant":[
         "Tucker\u2019s Town"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293287093,
-    "wof:lastmodified":1537587890,
+    "wof:lastmodified":1564184697,
     "wof:name":"Tucker's Town",
     "wof:parent_id":85669373,
     "wof:placetype":"locality",
