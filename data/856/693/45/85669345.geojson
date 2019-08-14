@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HC"
+    ],
     "lbl:latitude":32.293454,
     "lbl:longitude":-64.7893,
     "mps:latitude":32.293454,
@@ -246,16 +249,13 @@
         }
     ],
     "wof:id":85669345,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374557,
+    "wof:lastmodified":1565654291,
     "wof:name":"City of Hamilton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

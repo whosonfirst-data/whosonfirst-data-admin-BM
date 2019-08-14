@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":32.279477,
     "lbl:longitude":-64.780122,
     "mps:latitude":32.279477,
@@ -246,16 +249,13 @@
         }
     ],
     "wof:id":85669363,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374559,
+    "wof:lastmodified":1565654291,
     "wof:name":"Paget",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

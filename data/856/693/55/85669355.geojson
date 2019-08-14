@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DE"
+    ],
     "lbl:latitude":32.301873,
     "lbl:longitude":-64.759032,
     "mps:latitude":32.301873,
@@ -241,16 +244,13 @@
         }
     ],
     "wof:id":85669355,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374559,
+    "wof:lastmodified":1565654291,
     "wof:name":"Devonshire",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":32.346323,
     "lbl:longitude":-64.720267,
     "mps:latitude":32.346323,
@@ -246,7 +249,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564184696,
+    "wof:lastmodified":1565654291,
     "wof:name":"Hamilton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":32.297876,
     "lbl:longitude":-64.868274,
     "mps:latitude":32.297876,
@@ -243,16 +246,13 @@
         }
     ],
     "wof:id":85669377,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374560,
+    "wof:lastmodified":1565654291,
     "wof:name":"Sandys",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

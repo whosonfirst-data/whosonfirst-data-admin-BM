@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":32.314966,
     "lbl:longitude":-64.730626,
     "mps:latitude":32.314966,
@@ -236,16 +239,13 @@
         }
     ],
     "wof:id":85669381,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563374558,
+    "wof:lastmodified":1565654291,
     "wof:name":"Smith's",
     "wof:parent_id":85632731,
     "wof:placetype":"region",
