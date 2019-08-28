@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.375283,
     "lbl:longitude":-64.674648,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.375283,
     "mps:longitude":-64.674648,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
         "St George municipality",
         "St. George",
         "St. George municipality"
-    ],
-    "name:unk_x_variant":[
-        "Saint George"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BMU",
@@ -110,9 +108,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-20",
+    "src:population_date":"2010-05-20",
     "statoids:area_km":"1",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2010-05-20",
@@ -135,7 +133,7 @@
         "gp:id":20069917,
         "hasc:id":"BM.SG",
         "iso:id":"BM-SG",
-        "qs:id":888179
+        "qs_pg:id":888179
     },
     "wof:country":"BM",
     "wof:geomhash":"b66fd9be7e4559b15a6c58e90d1d8c2e",
@@ -153,11 +151,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565654291,
+    "wof:lastmodified":1566615560,
     "wof:name":"City of Saint George",
     "wof:parent_id":-1,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":1743,
     "wof:population_rank":3,
