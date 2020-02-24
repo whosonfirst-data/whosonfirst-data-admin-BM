@@ -56,6 +56,9 @@
     },
     "wof:country":"BM",
     "wof:created":1459010033,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97590529ed179e346daa255127a1a299",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421200623,
-    "wof:lastmodified":1566615562,
+    "wof:lastmodified":1582347108,
     "wof:name":"Hinson Hall",
     "wof:parent_id":85669381,
     "wof:placetype":"locality",
