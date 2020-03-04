@@ -60,6 +60,9 @@
     },
     "wof:country":"BM",
     "wof:created":1459009504,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aaa6e7e0bcca5dd82dca2439ddcc57be",
     "wof:hierarchy":[
         {
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421187173,
-    "wof:lastmodified":1566615562,
+    "wof:lastmodified":1582347108,
     "wof:name":"Chelston",
     "wof:parent_id":85669363,
     "wof:placetype":"locality",
