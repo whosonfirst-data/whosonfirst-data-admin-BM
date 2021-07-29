@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
     "geom:area_square_m":778379.349811,
-    "geom:bbox":"-64.6810243823,32.3697784707,-64.6684910399,32.3809689544",
+    "geom:bbox":"-64.681024,32.369778,-64.668491,32.380969",
     "geom:latitude":32.375305,
     "geom:longitude":-64.674648,
     "gn:population":1743,
@@ -38,6 +38,9 @@
         "St George municipality",
         "St. George",
         "St. George municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Saint George's"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BMU",
@@ -136,7 +139,7 @@
         "qs_pg:id":888179
     },
     "wof:country":"BM",
-    "wof:geomhash":"b66fd9be7e4559b15a6c58e90d1d8c2e",
+    "wof:geomhash":"d7e05315e6d4311f3b2299c789fc71ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +154,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566615560,
+    "wof:lastmodified":1627521600,
     "wof:name":"City of Saint George",
     "wof:parent_id":-1,
     "wof:placetype":"region",
@@ -165,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -64.68102438226941,
-    32.36977847069994,
-    -64.6684910399295,
-    32.38096895435382
+    -64.681024,
+    32.369778,
+    -64.668491,
+    32.380969
 ],
-  "geometry": {"coordinates":[[[-64.68102438226941,32.37604514186984],[-64.67207199552615,32.38096895435382],[-64.66849103992951,32.37425466452117],[-64.67699580801008,32.36977847069994],[-64.68102438226941,32.37604514186984]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-64.68102399999999,32.376045],[-64.672072,32.380969],[-64.668491,32.374255],[-64.676996,32.369778],[-64.68102399999999,32.376045]]],"type":"Polygon"}
 }
