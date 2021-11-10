@@ -53,6 +53,9 @@
     "name:deu_x_preferred":[
         "Camden"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bc\u03bd\u03c4\u03b5\u03bd"
+    ],
     "name:est_x_preferred":[
         "Camden"
     ],
@@ -72,6 +75,9 @@
         "Camden"
     ],
     "name:ido_x_preferred":[
+        "Camden"
+    ],
+    "name:ind_x_preferred":[
         "Camden"
     ],
     "name:ita_x_preferred":[
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1360286105,
-    "wof:lastmodified":1566615562,
+    "wof:lastmodified":1636501348,
     "wof:name":"Camden",
     "wof:parent_id":85669355,
     "wof:placetype":"locality",
