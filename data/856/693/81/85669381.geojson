@@ -98,6 +98,9 @@
     "name:nob_x_preferred":[
         "Smith's prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "Smith's Parish"
+    ],
     "name:pol_x_preferred":[
         "Parafia Smith's"
     ],
@@ -261,7 +264,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501347,
+    "wof:lastmodified":1690860230,
     "wof:name":"Smith's",
     "wof:parent_id":85632731,
     "wof:placetype":"region",
