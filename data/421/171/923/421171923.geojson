@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0645\u0631\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0645\u0631\u0633\u062a"
+    ],
     "name:ceb_x_preferred":[
         "Somerset"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421171923,
-    "wof:lastmodified":1566615562,
+    "wof:lastmodified":1690860232,
     "wof:name":"Somerset",
     "wof:parent_id":85669377,
     "wof:placetype":"locality",

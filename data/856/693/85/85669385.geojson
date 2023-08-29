@@ -98,6 +98,9 @@
     "name:nob_x_preferred":[
         "Southampton prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "Southampton Parish"
+    ],
     "name:pol_x_preferred":[
         "Southampton"
     ],
@@ -261,7 +264,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501348,
+    "wof:lastmodified":1690860232,
     "wof:name":"Southampton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

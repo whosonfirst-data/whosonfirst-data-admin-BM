@@ -99,6 +99,9 @@
     "name:nob_x_preferred":[
         "St. George's prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "St. George's Parish"
+    ],
     "name:pol_x_preferred":[
         "Parafia St. George's"
     ],
@@ -262,7 +265,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501347,
+    "wof:lastmodified":1690860230,
     "wof:name":"Saint George's",
     "wof:parent_id":85632731,
     "wof:placetype":"region",
