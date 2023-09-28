@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00064,
-    "geom:area_square_m":6685918.065389,
+    "geom:area_square_m":6685833.942617,
     "geom:bbox":"-64.780141,32.286175,-64.73793,32.316527",
     "geom:latitude":32.301936,
     "geom:longitude":-64.759352,
@@ -243,13 +243,15 @@
         "gn:id":3573251,
         "gp:id":2344751,
         "hasc:id":"BM.DE",
+        "iso:code":"BM-DEV",
         "iso:id":"BM-DEV",
         "qs_pg:id":1310773,
         "wd:id":"Q1207018",
         "wk:page":"Devonshire Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"e07ef3dbe133df78a54dc690fd0c29ed",
+    "wof:geomhash":"f0eb2f62e0020f1f01416470bb316070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -266,7 +268,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860231,
+    "wof:lastmodified":1695884883,
     "wof:name":"Devonshire",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

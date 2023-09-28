@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000612,
-    "geom:area_square_m":6391262.325003,
+    "geom:area_square_m":6391275.231034,
     "geom:bbox":"-64.742671,32.316959,-64.694916,32.352512",
     "geom:latitude":32.338298,
     "geom:longitude":-64.719831,
@@ -249,10 +249,12 @@
     "wof:concordances":{
         "fips:code":"BD02",
         "hasc:id":"BM.HA",
+        "iso:code":"BM-HAM",
         "iso:id":"BM-HAM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"4f727efd44610617b02d38938ce03aa8",
+    "wof:geomhash":"35c501e5177748f1fb70d2ec274cdef0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -269,7 +271,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501346,
+    "wof:lastmodified":1695884883,
     "wof:name":"Hamilton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

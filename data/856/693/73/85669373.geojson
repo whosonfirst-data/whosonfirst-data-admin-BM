@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001392,
-    "geom:area_square_m":14540976.619618,
+    "geom:area_square_m":14540726.467489,
     "geom:bbox":"-64.72202,32.326369,-64.647631,32.388658",
     "geom:latitude":32.362859,
     "geom:longitude":-64.683162,
@@ -242,13 +242,15 @@
         "gn:id":3573057,
         "gp:id":2344755,
         "hasc:id":"BM.SC",
+        "iso:code":"BM-SGE",
         "iso:id":"BM-SGE",
         "qs_pg:id":423582,
         "wd:id":"Q1521745",
         "wk:page":"St. George's Parish, Bermuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"4d8fc7c3f01a3bc3978bbba5a726cdc5",
+    "wof:geomhash":"c419480ffc117c44bd0cdd5d690c0468",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -265,7 +267,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860230,
+    "wof:lastmodified":1695884883,
     "wof:name":"Saint George's",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

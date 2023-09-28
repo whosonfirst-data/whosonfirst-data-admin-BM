@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":6123580.529125,
+    "geom:area_square_m":6123543.050277,
     "geom:bbox":"-64.88016,32.248077,-64.815152,32.269008",
     "geom:latitude":32.256191,
     "geom:longitude":-64.849047,
@@ -241,13 +241,15 @@
         "gn:id":3573026,
         "gp:id":2344758,
         "hasc:id":"BM.SO",
+        "iso:code":"BM-SOU",
         "iso:id":"BM-SOU",
         "qs_pg:id":423593,
         "wd:id":"Q1323054",
         "wk:page":"Southampton Parish, Bermuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"b9128836b93cb7a655816f9f7e75926e",
+    "wof:geomhash":"72fd680eee193ba255c377b60c552dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -264,7 +266,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860232,
+    "wof:lastmodified":1695884883,
     "wof:name":"Southampton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

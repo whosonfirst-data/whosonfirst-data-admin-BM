@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":689211.419558,
+    "geom:area_square_m":689180.337136,
     "geom:bbox":"-64.794525,32.289549,-64.784425,32.29734",
     "geom:latitude":32.293413,
     "geom:longitude":-64.7893,
@@ -245,13 +245,15 @@
         "gn:id":3573195,
         "gp:id":20069918,
         "hasc:id":"BM.HC",
+        "iso:code":"BM-HA",
         "iso:id":"BM-HA",
         "qs_pg:id":49363,
         "wd:id":"Q289876",
         "wk:page":"Hamilton Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"39a8bf79a1ded8421b7cf6b730dd17c5",
+    "wof:geomhash":"204312fb2e70824046acd55583c6b78d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -268,7 +270,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860230,
+    "wof:lastmodified":1695884883,
     "wof:name":"City of Hamilton",
     "wof:parent_id":85632731,
     "wof:placetype":"region",
