@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000649,
-    "geom:area_square_m":6785650.214266,
+    "geom:area_square_m":6785559.10485,
     "geom:bbox":"-64.832895,32.254281,-64.788306,32.289936",
     "geom:latitude":32.270348,
     "geom:longitude":-64.810758,
@@ -260,13 +260,15 @@
         "gn:id":3572972,
         "gp:id":2344759,
         "hasc:id":"BM.WA",
+        "iso:code":"BM-WAR",
         "iso:id":"BM-WAR",
         "qs_pg:id":423594,
         "wd:id":"Q1468860",
         "wk:page":"Warwick Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"cea23a22dfc4937be41c71b0877fc759",
+    "wof:geomhash":"19ec0ca03805c15fec0d0f569c50072e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -283,7 +285,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860231,
+    "wof:lastmodified":1695884883,
     "wof:name":"Warwick",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

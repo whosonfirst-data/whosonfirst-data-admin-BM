@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000687,
-    "geom:area_square_m":7184439.005949,
+    "geom:area_square_m":7184382.246023,
     "geom:bbox":"-64.885994,32.265932,-64.834137,32.329739",
     "geom:latitude":32.290608,
     "geom:longitude":-64.866158,
@@ -244,13 +244,15 @@
         "gn:id":3573050,
         "gp:id":2344756,
         "hasc:id":"BM.SA",
+        "iso:code":"BM-SAN",
         "iso:id":"BM-SAN",
         "qs_pg:id":423583,
         "wd:id":"Q121782",
         "wk:page":"Sandys Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"9437ab19abac169c509de070e1ccfdc7",
+    "wof:geomhash":"8e5accd38168fe4814aa5c1ccf0f1514",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -267,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860231,
+    "wof:lastmodified":1695884883,
     "wof:name":"Sandys",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

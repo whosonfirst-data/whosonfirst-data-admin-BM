@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00056,
-    "geom:area_square_m":5852309.096153,
+    "geom:area_square_m":5852268.799743,
     "geom:bbox":"-64.811191,32.265283,-64.760819,32.296369",
     "geom:latitude":32.281142,
     "geom:longitude":-64.780229,
@@ -254,13 +254,15 @@
         "gn:id":3573103,
         "gp:id":2344754,
         "hasc:id":"BM.PA",
+        "iso:code":"BM-PAG",
         "iso:id":"BM-PAG",
         "qs_pg:id":318285,
         "wd:id":"Q2046204",
         "wk:page":"Paget Parish"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"24c20ffbc5240ae17746c3955fd91131",
+    "wof:geomhash":"8d9e6fed9824f58f67b32900c4c556a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690860231,
+    "wof:lastmodified":1695884883,
     "wof:name":"Paget",
     "wof:parent_id":85632731,
     "wof:placetype":"region",

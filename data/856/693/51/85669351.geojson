@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
-    "geom:area_square_m":778379.349811,
+    "geom:area_square_m":778382.618565,
     "geom:bbox":"-64.681024,32.369778,-64.668491,32.380969",
     "geom:latitude":32.375305,
     "geom:longitude":-64.674648,
@@ -198,11 +198,13 @@
         "gn:id":3573062,
         "gp:id":20069917,
         "hasc:id":"BM.SG",
+        "iso:code":"BM-SG",
         "iso:id":"BM-SG",
         "qs_pg:id":888179
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BM",
-    "wof:geomhash":"d7e05315e6d4311f3b2299c789fc71ba",
+    "wof:geomhash":"3528823c9e185b8580e02130265e194f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -217,7 +219,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636501347,
+    "wof:lastmodified":1695884883,
     "wof:name":"City of Saint George",
     "wof:parent_id":-1,
     "wof:placetype":"region",
