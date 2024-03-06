@@ -9,6 +9,19 @@
     "geom:bbox":"-64.74361,32.31361,-64.74361,32.31361",
     "geom:latitude":32.31361,
     "geom:longitude":-64.74361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hinson Hall",
+    "gn:country_code":"BM",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573183,
+    "gn:latitude":32.31361,
+    "gn:longitude":-64.74361,
+    "gn:modification_date":"1995-08-16",
+    "gn:name":"Hinson Hall",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Bermuda",
     "iso:country":"BM",
     "lbl:bbox":"-64.76361,32.29361,-64.72361,32.33361",
     "lbl:max_zoom":18.0,
@@ -52,7 +65,12 @@
         "qs_pg:id":281478
     },
     "wof:concordances_alt":{
-        "qs_pg:id":889970
+        "gn:id":[
+            3573183
+        ],
+        "qs_pg:id":[
+            889970
+        ]
     },
     "wof:country":"BM",
     "wof:created":1459010033,
@@ -71,13 +89,15 @@
         }
     ],
     "wof:id":421200623,
-    "wof:lastmodified":1582347108,
+    "wof:lastmodified":1706239330,
     "wof:name":"Hinson Hall",
     "wof:parent_id":85669381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242573671
+    ],
     "wof:tags":[]
 },
   "bbox": [
